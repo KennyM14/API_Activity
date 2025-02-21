@@ -3,22 +3,71 @@
     {
       "id": 1,
       "name": "Player 1",
-      "deck": [1, 2, 3, 4, 5]
+      "deck": ["A♠", "2♠", "3♠", "J♠", "Q♠"]
     },
     {
       "id": 2,
       "name": "Player 2",
-      "deck": [6, 7, 8, 9, 10]
+      "deck": ["K♦", "7♦", "8♦", "9♦", "10♦"]
+    }, 
+    {
+      "id": 3,
+      "name": "Player 3", 
+      "deck": ["A♥", "5♥", "6♥", "J♥", "Q♥"]
     }
   ],
   "cards": [
     {
-      "id": 1,
-      "name": "Card 1"
+      "id": "A♠",
+      "name": "Ace of Spades"
     },
     {
-      "id": 2,
-      "name": "Card 2"
+      "id": "J♠",
+      "name": "Jack of Spades"
+    },
+    {
+      "id": "Q♠",
+      "name": "Queen of Spades"
+    },
+    {
+      "id": "K♦",
+      "name": "King of Diamonds"
+    },
+    {
+      "id": "7♦",
+      "name": "Seven of Diamonds"
+    },
+    {
+      "id": "8♦",
+      "name": "Eight of Diamonds"
+    },
+    {
+      "id": "9♦",
+      "name": "Nine of Diamonds"
+    },
+    {
+      "id": "10♦",
+      "name": "Ten of Diamonds"
+    },
+    {
+      "id": "A♥",
+      "name": "Ace of Hearts"
+    },
+    {
+      "id": "5♥",
+      "name": "Five of Hearts"
+    },
+    {
+      "id": "6♥",
+      "name": "Six of Hearts"
+    },
+    {
+      "id": "J♥",
+      "name": "Jack of Hearts"
+    },
+    {
+      "id": "Q♥",
+      "name": "Queen of Hearts"
     }
   ]
 }
