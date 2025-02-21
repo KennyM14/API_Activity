@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Player 1",
+      "deck": [1, 2, 3, 4, 5]
+    },
+    {
+      "id": 2,
+      "name": "Player 2",
+      "deck": [6, 7, 8, 9, 10]
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "name": "Card 1"
+    },
+    {
+      "id": 2,
+      "name": "Card 2"
+    },
+    // Add more cards as needed
+  ]
+}
